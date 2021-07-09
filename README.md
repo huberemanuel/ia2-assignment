@@ -9,3 +9,5 @@ python receive_input.py
 ```
 
 As informações devem ser inseridos sobre as preferências de cada usuário e no fim os dados serão exibidos.
+
+Os gráficos gerados no arquivo pdf de submissão podem ser visualizados pelo Jupyter Notebook (Visualization)[Visualization.ipynb].
